@@ -25,15 +25,5 @@
 <div align="center">
   <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div>
-
 <br/>
-
-<details>
-<br/>
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
-</details>
-
-<br/>
-
 </div>
